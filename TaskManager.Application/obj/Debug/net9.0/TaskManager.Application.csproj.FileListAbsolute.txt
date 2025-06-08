@@ -1,0 +1,15 @@
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/bin/Debug/net9.0/TaskManager.Application.deps.json
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/bin/Debug/net9.0/TaskManager.Application.dll
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/bin/Debug/net9.0/TaskManager.Application.pdb
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/bin/Debug/net9.0/TaskManager.Domain.dll
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/bin/Debug/net9.0/TaskManager.Domain.pdb
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/obj/Debug/net9.0/TaskManager.Application.csproj.AssemblyReference.cache
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/obj/Debug/net9.0/TaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/obj/Debug/net9.0/TaskManager.Application.AssemblyInfoInputs.cache
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/obj/Debug/net9.0/TaskManager.Application.AssemblyInfo.cs
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/obj/Debug/net9.0/TaskManager.Application.csproj.CoreCompileInputs.cache
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/obj/Debug/net9.0/TaskMana.898BD9DB.Up2Date
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/obj/Debug/net9.0/TaskManager.Application.dll
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/obj/Debug/net9.0/refint/TaskManager.Application.dll
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/obj/Debug/net9.0/TaskManager.Application.pdb
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Application/obj/Debug/net9.0/ref/TaskManager.Application.dll
