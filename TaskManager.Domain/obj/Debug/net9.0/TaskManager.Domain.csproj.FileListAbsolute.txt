@@ -1,0 +1,11 @@
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/bin/Debug/net9.0/TaskManager.Domain.deps.json
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/bin/Debug/net9.0/TaskManager.Domain.dll
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/bin/Debug/net9.0/TaskManager.Domain.pdb
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/obj/Debug/net9.0/TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/obj/Debug/net9.0/TaskManager.Domain.AssemblyInfoInputs.cache
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/obj/Debug/net9.0/TaskManager.Domain.AssemblyInfo.cs
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/obj/Debug/net9.0/TaskManager.Domain.csproj.CoreCompileInputs.cache
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/obj/Debug/net9.0/TaskManager.Domain.dll
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/obj/Debug/net9.0/refint/TaskManager.Domain.dll
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/obj/Debug/net9.0/TaskManager.Domain.pdb
+/Users/sheng/Documents/VS Projects/taskManager/TaskManager.Domain/obj/Debug/net9.0/ref/TaskManager.Domain.dll
